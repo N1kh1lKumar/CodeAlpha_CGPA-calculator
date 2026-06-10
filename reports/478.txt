@@ -1,0 +1,10 @@
+Name        : karan
+Roll Number : 478
+
+Course Name              Grade     Credits   
+---------------------------------------------
+DS                       B         4         
+
+ Total Credits : 4
+CGPA : 7.00
+Percentage : 66.50%

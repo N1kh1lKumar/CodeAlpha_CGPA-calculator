@@ -1,0 +1,10 @@
+Name        : 23
+Roll Number : 23
+
+Course Name              Grade     Credits   
+---------------------------------------------
+DS                       A         5         
+
+Total Credits : 5
+CGPA : 9.00
+Percentage : 85.50%

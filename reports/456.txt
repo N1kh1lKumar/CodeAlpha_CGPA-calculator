@@ -1,0 +1,11 @@
+Name        : Nikhil
+Roll Number : 456
+
+Course Name              Grade     Credits   
+---------------------------------------------
+DS                       A         4         
+DAA                      A+        4         
+
+ Total Credits : 8
+CGPA : 9.50
+Percentage : 90.25%

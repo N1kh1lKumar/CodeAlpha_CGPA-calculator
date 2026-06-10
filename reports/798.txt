@@ -1,0 +1,11 @@
+Name        : karan 7987
+Roll Number : 798
+
+Course Name              Grade     Credits   
+---------------------------------------------
+DS                       A         4         
+DSTL                     A         5         
+
+ Total Credits : 9
+CGPA : 9.00
+Percentage : 85.50%

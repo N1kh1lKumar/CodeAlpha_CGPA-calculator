@@ -1,0 +1,11 @@
+Name        : Karan
+Roll Number : 56
+
+Course Name              Grade     Credits   
+---------------------------------------------
+OOPS                     B         4         
+DS                       A         5         
+
+ Total Credits : 9
+CGPA : 8.11
+Percentage : 77.06%

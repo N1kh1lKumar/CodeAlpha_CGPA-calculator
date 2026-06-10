@@ -1,0 +1,11 @@
+Name        : Nikhil
+Roll Number : 25
+
+Course Name              Grade     Credits   
+---------------------------------------------
+DS                       A         5         
+DSTL                     B         4         
+
+Total Credits : 9
+CGPA : 8.11
+Percentage : 77.06%
